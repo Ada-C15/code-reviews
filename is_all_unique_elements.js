@@ -12,3 +12,5 @@ const isAllUniqueElements = (array) => {
 
   return isAllUnique;
 };
+
+export default isAllUniqueElements;
